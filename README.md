@@ -5,7 +5,7 @@ Welcome to my collection of 3D modeling projects! This repository showcases a ra
 ---
 
 ## 🔧 Tools & Software Used
-- **Fusion 360** – Parametric design and simulation | advanced part & assembly modelling|
+- **Fusion 360** – Parametric design and simulation | advanced part & assembly modelling
 - **AutoCAD** – 2D to 3D conversion & drafting
 - **ANSYS (basic simulations)** – Structural analysis
 - **Meshmixer** – Mesh editing for 3D printing and point cloud manipulation
