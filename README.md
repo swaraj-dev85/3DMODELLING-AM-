@@ -5,7 +5,7 @@ Welcome to my collection of 3D modeling projects! This repository showcases a ra
 ---
 
 ## 🔧 Tools & Software Used
-- **Fusion 360** – Parametric design and simulation|| advanced part & assembly modelling
+- **Fusion 360** – Parametric design and simulation | advanced part & assembly modelling|
 - **AutoCAD** – 2D to 3D conversion & drafting
 - **ANSYS (basic simulations)** – Structural analysis
 - **Meshmixer** – Mesh editing for 3D printing and point cloud manipulation
@@ -16,7 +16,7 @@ Welcome to my collection of 3D modeling projects! This repository showcases a ra
 
 | Project Name                         | Description                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|
-| Solar-Powered Sewage Cleaning System | A full mechanical assembly model with solar panels and cleaning mechanism  |
+| Solar-Powered Sewage Cleaning System | A full mechanical assembly model with solar panels |
 | Prosthetic Hand (Capstone Project)   | 3D printed prosthetic design using anatomical referencing and Meshmixer     |
 | Robotic Dog Components               | Modeled parts and joints used in a quadruped robotic dog (Boston Dynamics-inspired) |
 | Clubfoot Shoe Rapid Prototyping      | Customized orthotic footwear modeled and prepared for 3D printing           |
