@@ -1,6 +1,20 @@
 ![logo](https://github.com/swaraj-dev85/Swaraj/blob/main/GitHub%20Banner.jpg)
-<imgalign="right"alt="designing"wisth="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1pcGhqOXk1eDJtcnExdG1ibnE3MWozdWxsMHNtMG5zdDNsNndzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NeK8lW6lxOVS8E4isX/giphy.gif">
+
 ---
+# 🧩 3D Modeling Projects Repository
+
+Welcome to my 3D Modeling repository! This collection showcases various 3D design projects I've worked on using tools like **Fusion 360**, **SolidWorks**, **Meshmixer**, and **AutoCAD**. Most of these designs are exported as `.STL` files and are optimized for 3D printing and prototyping.
+
+## 🛠️ Tools Used
+- Autodesk Fusion 360
+- SolidWorks
+- Meshmixer
+- AutoCAD
+- Cura / PrusaSlicer (for slicing)
+- FDM 3D Printer
+
+## 📂 Folder Structure
+
 
 
 Each folder includes:
